@@ -1,0 +1,316 @@
+*2
+$6
+SELECT
+$1
+0
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$81
+{"id":10,"name":"Mitchell Kreiger","email":"Jerrod13@hotmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$149
+{"id":10,"name":"Mitchell Kreiger","email":"Jerrod13@hotmail.com","history":{"1":{"poll_id":1,"vote_id":534,"vote_date":"2024-03-08T03:55:22.295Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$220
+{"id":10,"name":"Mitchell Kreiger","email":"Jerrod13@hotmail.com","history":{"1":{"poll_id":1,"vote_id":534,"vote_date":"2024-03-08T03:55:22.295Z"},"2":{"poll_id":2,"vote_id":295,"vote_date":"2024-03-08T03:55:32.231Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$291
+{"id":10,"name":"Mitchell Kreiger","email":"Jerrod13@hotmail.com","history":{"1":{"poll_id":1,"vote_id":534,"vote_date":"2024-03-08T03:55:22.295Z"},"2":{"poll_id":2,"vote_id":295,"vote_date":"2024-03-08T03:55:32.231Z"},"3":{"poll_id":3,"vote_id":803,"vote_date":"2024-03-08T03:55:36.293Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$362
+{"id":10,"name":"Mitchell Kreiger","email":"Jerrod13@hotmail.com","history":{"1":{"poll_id":1,"vote_id":534,"vote_date":"2024-03-08T03:55:22.295Z"},"2":{"poll_id":2,"vote_id":295,"vote_date":"2024-03-08T03:55:32.231Z"},"3":{"poll_id":3,"vote_id":803,"vote_date":"2024-03-08T03:55:36.293Z"},"4":{"poll_id":4,"vote_id":550,"vote_date":"2024-03-08T03:55:40.235Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$433
+{"id":10,"name":"Mitchell Kreiger","email":"Jerrod13@hotmail.com","history":{"1":{"poll_id":1,"vote_id":534,"vote_date":"2024-03-08T03:55:22.295Z"},"2":{"poll_id":2,"vote_id":295,"vote_date":"2024-03-08T03:55:32.231Z"},"3":{"poll_id":3,"vote_id":803,"vote_date":"2024-03-08T03:55:36.293Z"},"4":{"poll_id":4,"vote_id":550,"vote_date":"2024-03-08T03:55:40.235Z"},"5":{"poll_id":5,"vote_id":343,"vote_date":"2024-03-08T03:55:44.556Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$81
+{"id":10,"name":"Gertrude McLaughlin","email":"Tobin81@gmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$81
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$149
+{"id":10,"name":"Gertrude McLaughlin","email":"Tobin81@gmail.com","history":{"2":{"poll_id":2,"vote_id":550,"vote_date":"2024-03-08T03:58:45.412Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$220
+{"id":10,"name":"Gertrude McLaughlin","email":"Tobin81@gmail.com","history":{"2":{"poll_id":2,"vote_id":550,"vote_date":"2024-03-08T03:58:45.412Z"},"3":{"poll_id":3,"vote_id":976,"vote_date":"2024-03-08T03:58:50.723Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$81
+{"id":10,"name":"Juana Kilback","email":"Dagmar_Rath95@gmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:12
+$1
+.
+$87
+{"id":12,"name":"Mrs. Judy Rolfson","email":"Sigmund.Green81@yahoo.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:13
+$1
+.
+$77
+{"id":13,"name":"Mr. Carmen Cole","email":"Twila74@gmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:14
+$1
+.
+$83
+{"id":14,"name":"Wesley Hegmann","email":"Brook_Hessel44@yahoo.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:15
+$1
+.
+$90
+{"id":15,"name":"Terry Jakubowski","email":"Guido_Bashirian35@hotmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$149
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$220
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$291
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$362
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$431
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$501
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:16
+$1
+.
+$88
+{"id":16,"name":"Janie Farrell III","email":"Elnora.Bahringer@gmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:17
+$1
+.
+$76
+{"id":17,"name":"Cora Swaniawski","email":"Meda44@yahoo.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:18
+$1
+.
+$89
+{"id":18,"name":"Mr. Floyd Powlowski","email":"Waldo.Bayer20@hotmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:19
+$1
+.
+$90
+{"id":19,"name":"Jorge Wisoky Jr.","email":"Mayra.Powlowski66@hotmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:20
+$1
+.
+$89
+{"id":20,"name":"Guillermo Brekke","email":"Barrett_McLaughlin@gmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$574
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"15":{"poll_id":15,"vote_id":208,"vote_date":"2024-03-08T04:05:45.807Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$647
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"15":{"poll_id":15,"vote_id":208,"vote_date":"2024-03-08T04:05:45.807Z"},"16":{"poll_id":16,"vote_id":906,"vote_date":"2024-03-08T04:05:49.778Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$720
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"15":{"poll_id":15,"vote_id":208,"vote_date":"2024-03-08T04:05:45.807Z"},"16":{"poll_id":16,"vote_id":906,"vote_date":"2024-03-08T04:05:49.778Z"},"17":{"poll_id":17,"vote_id":516,"vote_date":"2024-03-08T04:05:52.794Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$793
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"15":{"poll_id":15,"vote_id":208,"vote_date":"2024-03-08T04:05:45.807Z"},"16":{"poll_id":16,"vote_id":906,"vote_date":"2024-03-08T04:05:49.778Z"},"17":{"poll_id":17,"vote_id":516,"vote_date":"2024-03-08T04:05:52.794Z"},"18":{"poll_id":18,"vote_id":453,"vote_date":"2024-03-08T04:05:55.888Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$866
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"15":{"poll_id":15,"vote_id":208,"vote_date":"2024-03-08T04:05:45.807Z"},"16":{"poll_id":16,"vote_id":906,"vote_date":"2024-03-08T04:05:49.778Z"},"17":{"poll_id":17,"vote_id":516,"vote_date":"2024-03-08T04:05:52.794Z"},"18":{"poll_id":18,"vote_id":453,"vote_date":"2024-03-08T04:05:55.888Z"},"19":{"poll_id":19,"vote_id":633,"vote_date":"2024-03-08T04:05:59.554Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$938
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"15":{"poll_id":15,"vote_id":208,"vote_date":"2024-03-08T04:05:45.807Z"},"16":{"poll_id":16,"vote_id":906,"vote_date":"2024-03-08T04:05:49.778Z"},"17":{"poll_id":17,"vote_id":516,"vote_date":"2024-03-08T04:05:52.794Z"},"18":{"poll_id":18,"vote_id":453,"vote_date":"2024-03-08T04:05:55.888Z"},"19":{"poll_id":19,"vote_id":633,"vote_date":"2024-03-08T04:05:59.554Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"20":{"poll_id":20,"vote_id":34,"vote_date":"2024-03-08T04:06:03.199Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:11
+$1
+.
+$936
+{"id":11,"name":"Mae Lebsack Jr.","email":"Stephan46@hotmail.com","history":{"1":{"poll_id":1,"vote_id":438,"vote_date":"2024-03-08T04:04:01.265Z"},"15":{"poll_id":15,"vote_id":8,"vote_date":"2024-03-08T04:06:47.212Z"},"16":{"poll_id":16,"vote_id":906,"vote_date":"2024-03-08T04:05:49.778Z"},"17":{"poll_id":17,"vote_id":516,"vote_date":"2024-03-08T04:05:52.794Z"},"18":{"poll_id":18,"vote_id":453,"vote_date":"2024-03-08T04:05:55.888Z"},"19":{"poll_id":19,"vote_id":633,"vote_date":"2024-03-08T04:05:59.554Z"},"2":{"poll_id":2,"vote_id":985,"vote_date":"2024-03-08T04:04:04.368Z"},"20":{"poll_id":20,"vote_id":34,"vote_date":"2024-03-08T04:06:03.199Z"},"3":{"poll_id":3,"vote_id":127,"vote_date":"2024-03-08T04:04:06.804Z"},"4":{"poll_id":4,"vote_id":493,"vote_date":"2024-03-08T04:04:09.461Z"},"5":{"poll_id":5,"vote_id":53,"vote_date":"2024-03-08T04:04:12.97Z"},"6":{"poll_id":6,"vote_id":49,"vote_date":"2024-03-08T04:04:15.929Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:12
+$1
+.
+$80
+{"id":12,"name":"Cory Krajcik","email":"Kyla_Littel61@gmail.com","history":null}
+*2
+$3
+del
+$8
+voter:12
