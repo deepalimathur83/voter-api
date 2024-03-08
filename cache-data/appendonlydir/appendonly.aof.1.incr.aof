@@ -314,3 +314,283 @@ $3
 del
 $8
 voter:12
+*2
+$6
+SELECT
+$1
+0
+*4
+$8
+JSON.SET
+$8
+voter:15
+$1
+.
+$158
+{"id":15,"name":"Terry Jakubowski","email":"Guido_Bashirian35@hotmail.com","history":{"1":{"poll_id":1,"vote_id":357,"vote_date":"2024-03-08T16:36:07.794Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:15
+$1
+.
+$229
+{"id":15,"name":"Terry Jakubowski","email":"Guido_Bashirian35@hotmail.com","history":{"1":{"poll_id":1,"vote_id":357,"vote_date":"2024-03-08T16:36:07.794Z"},"2":{"poll_id":2,"vote_id":211,"vote_date":"2024-03-08T16:38:25.024Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:15
+$1
+.
+$300
+{"id":15,"name":"Terry Jakubowski","email":"Guido_Bashirian35@hotmail.com","history":{"1":{"poll_id":1,"vote_id":357,"vote_date":"2024-03-08T16:36:07.794Z"},"2":{"poll_id":2,"vote_id":211,"vote_date":"2024-03-08T16:38:25.024Z"},"3":{"poll_id":3,"vote_id":413,"vote_date":"2024-03-08T16:38:29.939Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:15
+$1
+.
+$371
+{"id":15,"name":"Terry Jakubowski","email":"Guido_Bashirian35@hotmail.com","history":{"1":{"poll_id":1,"vote_id":357,"vote_date":"2024-03-08T16:36:07.794Z"},"2":{"poll_id":2,"vote_id":211,"vote_date":"2024-03-08T16:38:25.024Z"},"3":{"poll_id":3,"vote_id":413,"vote_date":"2024-03-08T16:38:29.939Z"},"4":{"poll_id":4,"vote_id":133,"vote_date":"2024-03-08T16:38:33.755Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:14
+$1
+.
+$151
+{"id":14,"name":"Wesley Hegmann","email":"Brook_Hessel44@yahoo.com","history":{"1":{"poll_id":1,"vote_id":618,"vote_date":"2024-03-08T16:39:06.141Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:14
+$1
+.
+$221
+{"id":14,"name":"Wesley Hegmann","email":"Brook_Hessel44@yahoo.com","history":{"1":{"poll_id":1,"vote_id":618,"vote_date":"2024-03-08T16:39:06.141Z"},"2":{"poll_id":2,"vote_id":26,"vote_date":"2024-03-08T16:39:09.798Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:14
+$1
+.
+$292
+{"id":14,"name":"Wesley Hegmann","email":"Brook_Hessel44@yahoo.com","history":{"1":{"poll_id":1,"vote_id":618,"vote_date":"2024-03-08T16:39:06.141Z"},"2":{"poll_id":2,"vote_id":26,"vote_date":"2024-03-08T16:39:09.798Z"},"3":{"poll_id":3,"vote_id":308,"vote_date":"2024-03-08T16:39:12.679Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:14
+$1
+.
+$363
+{"id":14,"name":"Wesley Hegmann","email":"Brook_Hessel44@yahoo.com","history":{"1":{"poll_id":1,"vote_id":618,"vote_date":"2024-03-08T16:39:06.141Z"},"2":{"poll_id":2,"vote_id":26,"vote_date":"2024-03-08T16:39:09.798Z"},"3":{"poll_id":3,"vote_id":308,"vote_date":"2024-03-08T16:39:12.679Z"},"4":{"poll_id":4,"vote_id":309,"vote_date":"2024-03-08T16:39:16.768Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:18
+$1
+.
+$157
+{"id":18,"name":"Mr. Floyd Powlowski","email":"Waldo.Bayer20@hotmail.com","history":{"1":{"poll_id":1,"vote_id":519,"vote_date":"2024-03-08T16:39:32.332Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:18
+$1
+.
+$228
+{"id":18,"name":"Mr. Floyd Powlowski","email":"Waldo.Bayer20@hotmail.com","history":{"1":{"poll_id":1,"vote_id":519,"vote_date":"2024-03-08T16:39:32.332Z"},"2":{"poll_id":2,"vote_id":859,"vote_date":"2024-03-08T16:39:36.942Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:18
+$1
+.
+$299
+{"id":18,"name":"Mr. Floyd Powlowski","email":"Waldo.Bayer20@hotmail.com","history":{"1":{"poll_id":1,"vote_id":519,"vote_date":"2024-03-08T16:39:32.332Z"},"2":{"poll_id":2,"vote_id":859,"vote_date":"2024-03-08T16:39:36.942Z"},"3":{"poll_id":3,"vote_id":172,"vote_date":"2024-03-08T16:39:41.172Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:18
+$1
+.
+$370
+{"id":18,"name":"Mr. Floyd Powlowski","email":"Waldo.Bayer20@hotmail.com","history":{"1":{"poll_id":1,"vote_id":519,"vote_date":"2024-03-08T16:39:32.332Z"},"2":{"poll_id":2,"vote_id":859,"vote_date":"2024-03-08T16:39:36.942Z"},"3":{"poll_id":3,"vote_id":172,"vote_date":"2024-03-08T16:39:41.172Z"},"4":{"poll_id":4,"vote_id":558,"vote_date":"2024-03-08T16:39:44.461Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:20
+$1
+.
+$157
+{"id":20,"name":"Guillermo Brekke","email":"Barrett_McLaughlin@gmail.com","history":{"1":{"poll_id":1,"vote_id":921,"vote_date":"2024-03-08T16:40:20.124Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:20
+$1
+.
+$228
+{"id":20,"name":"Guillermo Brekke","email":"Barrett_McLaughlin@gmail.com","history":{"1":{"poll_id":1,"vote_id":921,"vote_date":"2024-03-08T16:40:20.124Z"},"2":{"poll_id":2,"vote_id":321,"vote_date":"2024-03-08T16:40:25.079Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:13
+$1
+.
+$144
+{"id":13,"name":"Mr. Carmen Cole","email":"Twila74@gmail.com","history":{"1":{"poll_id":1,"vote_id":204,"vote_date":"2024-03-08T16:40:47.94Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:13
+$1
+.
+$215
+{"id":13,"name":"Mr. Carmen Cole","email":"Twila74@gmail.com","history":{"1":{"poll_id":1,"vote_id":204,"vote_date":"2024-03-08T16:40:47.94Z"},"2":{"poll_id":2,"vote_id":299,"vote_date":"2024-03-08T16:40:51.297Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$149
+{"id":10,"name":"Juana Kilback","email":"Dagmar_Rath95@gmail.com","history":{"1":{"poll_id":1,"vote_id":817,"vote_date":"2024-03-08T16:41:14.338Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:10
+$1
+.
+$218
+{"id":10,"name":"Juana Kilback","email":"Dagmar_Rath95@gmail.com","history":{"1":{"poll_id":1,"vote_id":817,"vote_date":"2024-03-08T16:41:14.338Z"},"2":{"poll_id":2,"vote_id":1,"vote_date":"2024-03-08T16:41:18.751Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:17
+$1
+.
+$143
+{"id":17,"name":"Cora Swaniawski","email":"Meda44@yahoo.com","history":{"1":{"poll_id":1,"vote_id":43,"vote_date":"2024-03-08T16:41:35.099Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:17
+$1
+.
+$213
+{"id":17,"name":"Cora Swaniawski","email":"Meda44@yahoo.com","history":{"1":{"poll_id":1,"vote_id":43,"vote_date":"2024-03-08T16:41:35.099Z"},"2":{"poll_id":2,"vote_id":19,"vote_date":"2024-03-08T16:41:40.875Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:19
+$1
+.
+$158
+{"id":19,"name":"Jorge Wisoky Jr.","email":"Mayra.Powlowski66@hotmail.com","history":{"1":{"poll_id":1,"vote_id":259,"vote_date":"2024-03-08T16:41:54.602Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:19
+$1
+.
+$229
+{"id":19,"name":"Jorge Wisoky Jr.","email":"Mayra.Powlowski66@hotmail.com","history":{"1":{"poll_id":1,"vote_id":259,"vote_date":"2024-03-08T16:41:54.602Z"},"2":{"poll_id":2,"vote_id":620,"vote_date":"2024-03-08T16:41:58.999Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:16
+$1
+.
+$156
+{"id":16,"name":"Janie Farrell III","email":"Elnora.Bahringer@gmail.com","history":{"1":{"poll_id":1,"vote_id":588,"vote_date":"2024-03-08T16:42:14.767Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:16
+$1
+.
+$227
+{"id":16,"name":"Janie Farrell III","email":"Elnora.Bahringer@gmail.com","history":{"1":{"poll_id":1,"vote_id":588,"vote_date":"2024-03-08T16:42:14.767Z"},"2":{"poll_id":2,"vote_id":984,"vote_date":"2024-03-08T16:42:18.165Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:21
+$1
+.
+$84
+{"id":21,"name":"Ms. Freddie Schuppe","email":"Eldred69@hotmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:21
+$1
+.
+$83
+{"id":21,"name":"Benjamin Nikolaus","email":"Candido61@hotmail.com","history":null}
+*4
+$8
+JSON.SET
+$8
+voter:21
+$1
+.
+$151
+{"id":21,"name":"Benjamin Nikolaus","email":"Candido61@hotmail.com","history":{"1":{"poll_id":1,"vote_id":897,"vote_date":"2024-03-08T16:53:01.772Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:21
+$1
+.
+$149
+{"id":21,"name":"Benjamin Nikolaus","email":"Candido61@hotmail.com","history":{"1":{"poll_id":1,"vote_id":8,"vote_date":"2024-03-08T16:53:13.895Z"}}}
+*4
+$8
+JSON.SET
+$8
+voter:22
+$1
+.
+$86
+{"id":22,"name":"Alfredo Greenfelder","email":"Christophe73@yahoo.com","history":null}
+*2
+$3
+del
+$8
+voter:21
+*4
+$8
+JSON.SET
+$8
+voter:16
+$1
+.
+$156
+{"id":16,"name":"Janie Farrell III","email":"Elnora.Bahringer@gmail.com","history":{"2":{"poll_id":2,"vote_id":984,"vote_date":"2024-03-08T16:42:18.165Z"}}}
